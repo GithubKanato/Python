@@ -102,14 +102,5 @@ grid_col = grid_col + 1
 grid_col = grid_col + 1
 btn_div =tkinter.Button(window, text="/",width=btn_width,height=btn_height,command=lambda:press_calc_button('/')).grid(row=grid_row,column=grid_col)
 
-
-
-
-
-
-
-
-
-
 # ウィンドウのループ処理
 window.mainloop()
