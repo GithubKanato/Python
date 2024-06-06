@@ -55,11 +55,11 @@ def createMIMEText(mail_from, mail_to, message, subject):
     return msg
 
 # メールの送り主
-from_email = "address@gmail.com"
-from_password = 'password'
+from_email = "detectiveboys710@gmail.com"
+from_password = 'tmkr fkfb qtwp mcxc'
 
 # メール送信先
-to_email = "mail@outlook.com"
+to_email = "detectiveboys@outlook.com"
 
 # メール件名とメール本文
 subject = "差分"
